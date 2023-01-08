@@ -1,11 +1,11 @@
 <h1 align="center">Olá, me chamo Victor</h1>
-<h3 align="center">Estou sempre aprendendo algo novo e vou compartilhar aqui</h3>
+<h3 align="center">Estou sempre aprendendo algo novo e vou compartilhar por aqui</h3>
 
 - 🌱 Atualmente estou estudando **PHP, Python, PowerBI**
 
-- 💬 Estou desenvolvendo um projeto e toda ajuda é bem-vinda [Vou colocar um Replit aqui, um dia](Vou colocar um Replit aqui, um dia)
+- 💬 Estou desenvolvendo um projeto e toda ajuda é bem-vinda → <a href="replit.com/@lacorte3/ppt-teste-2">Replit</a>
 
-- 📫 Caso queira entrar em contato **Meu e-mail esta na bio :)**
+- 📫 Este <a href="www.teste.com">link</a> é meu curriculo e funcionará em breve :)
 
 <h3 align="left">Entre em contato:</h3>
 <p align="left">
