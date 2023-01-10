@@ -5,7 +5,7 @@
 
 - 💬 Estou desenvolvendo um projeto e toda ajuda é bem-vinda → <a href="replit.com/@lacorte3/ppt-teste-2">Replit</a>
 
-- 📫 Este <a href="https://victorlct.github.io/curriculo/">link</a> é meu curriculo e funcionará em breve :)
+- 📫 Neste <a href="https://victorlct.github.io/curriculo/">link</a> você encontra meu curriculo :)
 
 <h3 align="left">Entre em contato:</h3>
 <p align="left">
