@@ -1,9 +1,9 @@
 <h1 align="center">Olá, me chamo Victor</h1>
 <h3 align="center">Estou sempre aprendendo algo novo e vou compartilhar por aqui</h3>
 
-- 🌱 Atualmente estou estudando **PHP, Python, PowerBI**
+- 🌱 Atualmente estou estudando **PHP, Python, PowerBI, Java, Kotlin**
 
-- 💬 Estou desenvolvendo um projeto e toda ajuda é bem-vinda → <a href="replit.com/@lacorte3/ppt-teste-2">Replit</a>
+- 💬 Estou desenvolvendo um projeto e toda ajuda é bem-vinda → <a href="https://github.com/Victorlct/bot_thecrims">GitHub</a>
 - 💬 Ultimo projeto → <a href="https://victorlct.github.io/jogodavelha/">Link</a>
 
 - 📫 Neste <a href="https://victorlct.github.io/curriculo/">link</a> você encontra meu curriculo :)
