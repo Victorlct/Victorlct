@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Victor</h1>
 <h3 align="center">Estou sempre aprendendo algo novo e vou compartilhar por aqui</h3>
 
-- 🌱 Atualmente estou estudando **PHP, Python, PowerBI, Java, Kotlin**
+- 🌱 Atualmente estou estudando e aprimorando **C#, ASP.NET Core 6, Python, Blazor/Razor Pages**
 
 - 💬 Estou desenvolvendo um projeto e toda ajuda é bem-vinda → <a href="https://github.com/Victorlct/bot_thecrims">GitHub</a>
 - 💬 Ultimo projeto → <a href="https://victorlct.github.io/jogodavelha/">Link</a>
