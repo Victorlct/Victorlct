@@ -6,7 +6,7 @@
 - 💬 Estou desenvolvendo um projeto e toda ajuda é bem-vinda → <a href="https://github.com/Victorlct/Bot_Quickin/tree/main">GitHub</a>
 - 💬 Ultimo projeto → <a href="https://github.com/Victorlct/Batalha-de-quadrados-">Link</a>
 
-- 📫 Neste <a href="https://victorlct.github.io/curriculo/">link</a> você encontra meu curriculo :)
+- 📫 Neste <a href="https://drive.google.com/file/d/1KtoZkKYJ6cI0t7sjW-clxUJDG29SCn_E/view?usp=sharing">link</a> você encontra meu curriculo :)
 
 <h3 align="left">Entre em contato:</h3>
 <p align="left">
