@@ -1,12 +1,12 @@
 <h1 align="center">Olá, me chamo Victor</h1>
 <h3 align="center">Estou sempre aprendendo algo novo e vou compartilhar por aqui</h3>
 
-- 🌱 Atualmente estou estudando e aprimorando **C#, ASP.NET Core 6, Python, Blazor/Razor Pages**
+- 🌱 Atualmente estou estudando e aprimorando **.NET, Python, Blazor Pages, VueJS e Tailwind**
 
-- 💬 Estou desenvolvendo um projeto e toda ajuda é bem-vinda → <a href="https://github.com/Victorlct/Bot_Quickin/tree/main">GitHub</a>
-- 💬 Ultimo projeto → <a href="https://github.com/Victorlct/Batalha-de-quadrados-">Link</a>
+- 💬 Atualmente desenvolvendo um projeto para gerar videos virais com inteligência artificial.</a>
+- 💬 Ultimo projeto → <a href="#">Link em construção :)</a>
 
-- 📫 Neste <a href="https://drive.google.com/file/d/1KtoZkKYJ6cI0t7sjW-clxUJDG29SCn_E/view?usp=sharing">link</a> você encontra meu curriculo :)
+- 📫 Neste <a href="https://drive.google.com/file/d/1KtoZkKYJ6cI0t7sjW-clxUJDG29SCn_E/view?usp=sharing">link</a> você encontra meu curriculo em pdf :)
 
 <h3 align="left">Entre em contato:</h3>
 <p align="left">
