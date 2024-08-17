@@ -5,6 +5,7 @@
 
 - 💬 Atualmente desenvolvendo um projeto para gerar videos virais com inteligência artificial.</a>
 - 💬 Ultimo projeto → <a href="#">Link em construção :)</a>
+- 💬 <a href="https://victorlct.github.io/sobre-mim/">Acesse </a>meu site.
 
 - 📫 Neste <a href="https://drive.google.com/file/d/17xhWCUGwUO74wDbfH67b5uY9U1mnLjFv/view?usp=sharing" target="_blank">link</a> você encontra meu curriculo em pdf :)
 
